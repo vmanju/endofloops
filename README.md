@@ -67,5 +67,9 @@ console.log(taco(pantry));*/
 ## Resources
 
 [Mary Cook's Intro to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
-
+[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/)
+[MDN's reference on Array reduce function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+[The Almighty Reducer by Sarah Drasner](https://css-tricks.com/understanding-the-almighty-reducer/)
+[Eric Elliot's Composing Software using Reduce](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
+[Jessica Kerr's Functional principles for OO developers](https://www.infoq.com/presentations/fp-principles-oop/)
 
