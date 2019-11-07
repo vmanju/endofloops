@@ -8,6 +8,6 @@ These are working code snippets you can copy paste in your favorite Javascript I
 
 ## Resources
 
-[Mary Cook's Intro to functional programming] (https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+[Mary Cook's Intro to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
 
