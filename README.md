@@ -4,4 +4,4 @@ Slide deck to be shared after the presentation on Nov 8, 2019
 
 ## Resources
 
-(Mary Cook's Intro to functional programming) [https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming]
+[Mary Cook's Intro to functional programming)] (https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
