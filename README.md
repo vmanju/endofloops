@@ -5,6 +5,16 @@ Slide deck to be shared after the presentation on Nov 8, 2019
 ## Code Snippets
 These are working code snippets you can copy paste in your favorite Javascript IDE. Have fun!
 
+```
+const pantry = [
+  { name: 'eggs', vegan: false},
+  { name: 'cheese', vegan: false},
+  { name: 'potatoes', vegan: true},
+  { name: 'salsa', vegan: true},
+  { name: 'avocado', vegan: true}
+];
+```
+
 
 ## Resources
 
