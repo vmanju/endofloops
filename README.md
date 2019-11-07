@@ -1,10 +1,32 @@
 # End of Loops - Intro to functional programming
-Presentation materials for Intro to functional programming by [@vmanju](https://twitter.com/vmanju)
-To be delivered at Lead Developer conference, Austin Nov 8, 2019
-Slide deck TBD
+Presentation materials for Intro to functional programming by [@vmanju](https://twitter.com/vmanju) <br>
+To be delivered at Lead Developer conference, Austin Nov 8, 2019 <br>
+Slide deck TBD <br>
 
 ## Code Snippets
 These are working code snippets you can copy paste in your favorite Javascript IDE and run them. Have fun!
+
+### Example for a side effect
+
+```
+# Impure function
+
+let total = 0;
+const increment = () => {
+    total += 1;
+}
+increment();
+console.log(total);
+
+
+# Pure function
+
+const increment = (total) => {
+    return total + 1;
+}
+
+console.log(increment(0))
+```
 
 ### Lets make a breakfast taco using loops
 ```
@@ -40,7 +62,7 @@ for (let ingredient of ingredients) {
 console.log(taco);
 
 ```
-### Lets make a breakfast taco replacing loops with higher order functions
+### Lets make a breakfast taco by replacing loops with higher order functions
 
 ```
 const taco = pantry.filter(isVegan)
@@ -49,7 +71,7 @@ const taco = pantry.filter(isVegan)
 console.log(taco);
 ```
 
-### Lets make a breakfast taco replacing loops with composing functions
+### Lets make a breakfast taco by replacing loops with composing functions
 
 ```
 const taco = prepareTaco(prepareIngredient(isVegan(pantry)));
