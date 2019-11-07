@@ -1,2 +1,2 @@
 # End of Loops - Intro to functional programming
-Code snippets for "Intro to Functional Programming" presentation
+These are the materials for the presentation delivered at Lead Developer conference, Austin Nov 2019
